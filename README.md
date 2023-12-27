@@ -14,33 +14,34 @@ Transit-DB is a full-stack database application that allows users to purchase tr
 Users are first prompted to login to their account.
 <br/>
 <br/>
-
+![image](https://github.com/brendangorch/Transit-DB/assets/145873615/fe2c7fb3-49ef-4ade-82e7-55a077833cca)
 <br/>
 <br/>
-Users can view their account details.
+Users can view their account details, and add funds:
 <br/>
 <br/>
-
+![image](https://github.com/brendangorch/Transit-DB/assets/145873615/2fff5553-f95f-4124-bbe1-5eb0226183df)
 <br/>
 <br/>
 Finding a train by selecting departure station and destination station:
 <br/>
 <br/>
-
+![image](https://github.com/brendangorch/Transit-DB/assets/145873615/02af7a25-3143-4a16-8ae4-f91db83952c2)
 <br/>
 <br/>
 Finding a station by selecting a route:
 <br/>
 <br/>
-
+![image](https://github.com/brendangorch/Transit-DB/assets/145873615/461af3a7-6bf5-4fef-9924-8b0ddaeb6761)
 <br/>
 <br/>
 Purchasing a ticket (funds for the account are updated automatically after purchase):
 <br/>
 <br/>
-
+![image](https://github.com/brendangorch/Transit-DB/assets/145873615/0dc65662-faf6-4a87-b003-28f64c228592)
 <br/>
 <br/>
 Adding favourite routes or stations:
 <br/>
 <br/>
+![image](https://github.com/brendangorch/Transit-DB/assets/145873615/a1f42572-df18-420e-810f-6a602ab24c08)
